@@ -1,7 +1,7 @@
-package geektime.spring.springbucks.service;
+package com.gientech.iot.springbucks.service;
 
-import geektime.spring.springbucks.model.Coffee;
-import geektime.spring.springbucks.repository.CoffeeRepository;
+import com.gientech.iot.springbucks.repository.CoffeeRepository;
+import com.gientech.iot.springbucks.model.Coffee;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Example;

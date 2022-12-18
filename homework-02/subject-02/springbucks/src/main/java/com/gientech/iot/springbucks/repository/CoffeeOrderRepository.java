@@ -1,6 +1,6 @@
-package geektime.spring.springbucks.repository;
+package com.gientech.iot.springbucks.repository;
 
-import geektime.spring.springbucks.model.CoffeeOrder;
+import com.gientech.iot.springbucks.model.CoffeeOrder;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface CoffeeOrderRepository extends JpaRepository<CoffeeOrder, Long> {

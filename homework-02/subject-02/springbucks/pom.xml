@@ -8,7 +8,7 @@
 		<version>2.1.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>geektime.spring</groupId>
+	<groupId>com.gientech.iot</groupId>
 	<artifactId>springbucks</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springbucks</name>

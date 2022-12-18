@@ -1,4 +1,4 @@
-package geektime.spring.springbucks.vo;
+package com.gientech.iot.springbucks.vo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

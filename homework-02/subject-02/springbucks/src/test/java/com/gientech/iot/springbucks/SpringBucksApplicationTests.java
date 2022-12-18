@@ -1,4 +1,4 @@
-package geektime.spring.springbucks;
+package com.gientech.iot.springbucks;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
